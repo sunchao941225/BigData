@@ -1,0 +1,10 @@
+com\baizhi\mr\UserMapper.class
+com\baizhi\Job02.class
+com\baizhi\Job02$Job02Mapper.class
+com\baizhi\mr\JobRunner.class
+com\baizhi\Job01$HDFS2HBASEReducer.class
+com\baizhi\Job01$HDFS2HBASEMapper.class
+com\baizhi\Job01.class
+com\baizhi\mr\UserReducer.class
+com\baizhi\Job02$Job02Reducer.class
+com\baizhi\App.class

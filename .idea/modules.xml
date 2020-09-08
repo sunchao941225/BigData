@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HBase_Test/HBase_Test.iml" filepath="$PROJECT_DIR$/HBase_Test/HBase_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hadoop_Test/Hadoop_Test.iml" filepath="$PROJECT_DIR$/Hadoop_Test/Hadoop_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hive_Test/Hive_Test.iml" filepath="$PROJECT_DIR$/Hive_Test/Hive_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZooKeeper_Test/ZooKeeper_Test.iml" filepath="$PROJECT_DIR$/ZooKeeper_Test/ZooKeeper_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-sb/kafka-sb.iml" filepath="$PROJECT_DIR$/kafka-sb/kafka-sb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/show-system/show-system.iml" filepath="$PROJECT_DIR$/show-system/show-system.iml" />
+    </modules>
+  </component>
+</project>

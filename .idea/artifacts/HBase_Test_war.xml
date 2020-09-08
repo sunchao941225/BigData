@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HBase_Test:war">
+    <output-path>$PROJECT_DIR$/HBase_Test/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HBase_Test</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HBase_Test-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HBase_Test:war exploded" />
+    </root>
+  </artifact>
+</component>
